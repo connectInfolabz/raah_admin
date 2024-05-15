@@ -93,11 +93,11 @@ function Login() {
                                                     required
                                                 />
                                             </div>
-                                            <div className="d-flex align-items-center justify-content-end mb-4">
+                                           {/*  <div className="d-flex align-items-center justify-content-end mb-4">
                                                 <a className="text-primary fw-bold" href="./index.html">
                                                     Forgot Password ?
                                                 </a>
-                                            </div>
+                                            </div> */}
                                             <button
                                                 type="submit"
                                                 className="btn btn-primary w-100 py-8 fs-4 mb-4 rounded-2"
